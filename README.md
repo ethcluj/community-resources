@@ -8,7 +8,7 @@ Welcome to the ETHCluj Community Resources Hub! This repository collects useful 
 - Smart contract templates and Solidity snippets
 - Useful community threads (Telegram, X, Discord, etc.)
 - Romanian-language Ethereum onboarding content
-- Ecosystem links: Arbitrum, Public Goods, Hackathons
+- Ecosystem links: Public Goods, Hackathons, L2s
 - Local meetups, recordings, and slides
 
 ## 🧠 Why This Exists
